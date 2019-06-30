@@ -12,5 +12,6 @@ public class Review01_Print {
 		System.out.println("(  /  )");
 		System.out.println(" \\(__)|");
 		
+		
 	}
 }
